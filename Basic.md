@@ -1,5 +1,15 @@
+## 🖥 데이터베이스에 접속하기
+* `psql -U postgres`
+
+* psql : SQL Shell을 실행하는 코드
+
+* postgres : 사용자 계정 (처음 PostgreSQL을 설치하면 자동으로 생성되어 있음)l
+<br/><br/>
+
 ## 🖥 SQL Shell 명령어
 * psql 종료하기 : `\q `
+
+* 데이터베이스 생성하기 : `CREATE DATABASE book_stare;`
 
 * 데이터베이스 조회하기 : `\l`
 
