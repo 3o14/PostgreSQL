@@ -7,11 +7,17 @@
 <br/><br/>
 
 ## 🖥 SQL Shell 명령어
-* psql 종료하기 : `\q `
-
-* 데이터베이스 생성하기 : `CREATE DATABASE book_stare;`
-
+* 데이터베이스 생성하기
+```sql
+CREATE DATABASE book_stare;`
+```
+* 데이터베이스 삭제하기
+```sql
+DROP DATABASE 데이터베이스명;`
+```
 * 데이터베이스 조회하기 : `\l`
+
+* psql 종료하기 : `\q `
 
 * 입력한 데이터베이스로 이동하기 : `\c`
   * 예) \c 데이터베이스명
