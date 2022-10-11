@@ -120,3 +120,5 @@ ecto.']
 >>> fake.text()
 'A occaecati tempora beatae optio nihil. Est sapiente doloribus assumenda eaque ipsa autem. Est facilis quibusdam consectetur occaecati occaecati. Nam in adipisci fuga eum debitis.'
 ```
+
+[faker 사용하기](https://wikidocs.net/105448)
